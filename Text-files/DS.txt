@@ -1,0 +1,4 @@
+Data Collection - KP45
+Data preprocessing - HP7
+Model preparation - NM18
+FastAPI 
